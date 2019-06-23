@@ -14,4 +14,11 @@ def pop_with_args(continents)
   continents.pop(2)
 end
   
+def using_shift(continents)
+  continents.shift
+end
+
+def shift_with_args
+  continents.shift(2)
+end
 
