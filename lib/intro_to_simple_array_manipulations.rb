@@ -18,7 +18,7 @@ def using_shift(continents)
   continents.shift
 end
 
-def shift_with_args
+def shift_with_args(continents)
   continents.shift(2)
 end
 
