@@ -23,5 +23,5 @@ def shift_with_args(continents)
 end
 
 def using_concat(a,c)
-  a = a + c
+  a += c
 end
