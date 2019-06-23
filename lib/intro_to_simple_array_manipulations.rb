@@ -12,8 +12,6 @@ end
 
 def using_pop(continents)
   continents.pop
-  new_continents = continents.pop
-  new_continents.size 
 end
 
 
