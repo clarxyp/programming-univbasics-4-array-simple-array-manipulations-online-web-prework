@@ -22,4 +22,6 @@ def shift_with_args(continents)
   continents.shift(2)
 end
 
-def using_concat()
+def using_concat(a,c)
+  c = a + c
+end
