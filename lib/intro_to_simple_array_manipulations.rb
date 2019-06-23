@@ -12,7 +12,8 @@ end
 
 def using_pop(continents)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  continents.pop
+  new_world = continents.pop
+  new_world.size
 end
 
 
